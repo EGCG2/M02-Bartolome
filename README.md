@@ -1,4 +1,4 @@
-# mavenParte3_egc
+# Proyecto Maven02
 Correspondiente a la 3º practica Maven de EGC
 
 - Se ha añadido a nuestro pom.xml un plugin conocido como "checkstyle" (mvn checkstyle:help) con el podemos ver los fallos de estilo en el codigo java.
